@@ -1,0 +1,5 @@
+{
+    "name": "Silgospprom",
+    "land_area": 800,
+    "annual_profit": 16000
+}

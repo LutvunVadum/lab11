@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Agroland",
+        "land_area": 1500,
+        "annual_profit": 12000
+    },
+    {
+        "name": "Earth and Ko",
+        "land_area": 2000,
+        "annual_profit": 17000
+    },
+    {
+        "name": "Silgospprom",
+        "land_area": 800,
+        "annual_profit": 16000
+    }
+]
